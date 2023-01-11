@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danilo-Carajiliascov
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Julia, R end Knime
+- 🌱 I’m currently learning Julia, Python, R and Knime
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
